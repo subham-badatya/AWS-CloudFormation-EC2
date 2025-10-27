@@ -39,7 +39,7 @@ Here’s a simple diagram showing the flow 👇
 
 ## 🧩 Files Included
 
-- `ec2-template.yaml` → CloudFormation template  
+- `simle-ec2.yaml` → CloudFormation template  
 - `diagram.png` → Architecture flow image  
 - `README.md` → Documentation  
 
@@ -59,4 +59,5 @@ Let’s keep learning and automating with AWS 🚀
 THANKYOU
 
 #AWS #CloudFormation #DevOps #Automation #EC2 #CloudComputing #InfrastructureAsCode #AWSLearning #AWSCommunity #TechJourney
+
 
