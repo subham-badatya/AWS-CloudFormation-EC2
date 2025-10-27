@@ -7,7 +7,7 @@ It’s a simple example of **Infrastructure as Code (IaC)** — no manual clicks
 
 ## 📘 Project Steps
 
-**Step 1:** Create a file named `ec2-template.yaml`  
+**Step 1:** Create a file named `simple-ec2.yaml`  
 **Step 2:** Define EC2 instance and Security Group inside it  
 **Step 3:** Go to AWS Console → CloudFormation → Create Stack  
 **Step 4:** Upload the YAML file and deploy the stack  
@@ -59,6 +59,7 @@ Let’s keep learning and automating with AWS 🚀
 THANKYOU
 
 #AWS #CloudFormation #DevOps #Automation #EC2 #CloudComputing #InfrastructureAsCode #AWSLearning #AWSCommunity #TechJourney
+
 
 
 
