@@ -55,10 +55,11 @@ Here’s a simple diagram showing the flow 👇
 ---
 
 ⭐ **If you found this helpful, don’t forget to give this repo a star!** 🌟  
-Let’s keep learning and automating with AWS 🚀  
+Let’s keep learning and automating with AWS 
 THANKYOU
 
-#AWS #CloudFormation #DevOps #Automation #EC2 #CloudComputing #InfrastructureAsCode #AWSLearning #AWSCommunity #TechJourney
+
+
 
 
 
